@@ -14,7 +14,15 @@
     <module>multi-module</module>
     <module>single-module</module>
   </modules>
-
+<profiles>
+  <profile>
+           <id>sonar</id>
+           <properties>
+          <sonar.host.url>
+           http://loacalhost:9000
+            </sonar.host.url>
+             <profile>
+                      </profiles>
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
