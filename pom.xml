@@ -20,10 +20,9 @@
            <properties>
           <sonar.host.url>
            http://loacalhost:9000
-            </sonar.host.url>
+                    </sonar.host.url></properties>
              </profile>
                       </profiles>
-  <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
 </project>
