@@ -22,6 +22,4 @@
                     </sonar.host.url></properties>
              </profile>
                       </profiles>
-    <maven>3.0.3</maven>
-  </prerequisites>
-</project>
+     </project>
