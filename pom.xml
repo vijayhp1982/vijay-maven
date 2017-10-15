@@ -19,7 +19,7 @@
            <id>sonar</id>
            <properties>
           <sonar.host.url>
-           http://loacalhost:9000
+           http://localhost:9000
                     </sonar.host.url></properties>
              </profile>
                       </profiles>
